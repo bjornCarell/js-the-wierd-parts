@@ -1,7 +1,7 @@
 Everything is an Object (or a Primitive)
 
 We know this, because anything that is not a primitive; basic object,
-function,array etc, the all have a protoype. Except for the base object
+function,array etc, they all have a protoype. Except for the base object
 in JavaScript. 
 
 The base object is the last link the chain. This is where the prototype
