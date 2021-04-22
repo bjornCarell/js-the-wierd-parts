@@ -48,7 +48,7 @@ jane.lastname = john.lastname; // But what if they get a divorce??
 console.log(jane);
 
 john.lastname = 'Andersen';
-console.log(jane.lastname); // What will this will be the output? 
+console.log(jane.lastname); // What will be the output? 
 console.log(john.lastname);
 
 // add method to the person obejct gives all obejct created
